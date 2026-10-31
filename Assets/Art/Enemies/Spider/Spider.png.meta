@@ -1,0 +1,2037 @@
+fileFormatVersion: 2
+guid: e2fbbae9ead77b84481201f5e8217242
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3438905571476058607
+    second: Spider_0
+  - first:
+      213: -3439666431560065214
+    second: Spider_1
+  - first:
+      213: 594067532846947361
+    second: Spider_2
+  - first:
+      213: -8157787870349292481
+    second: Spider_3
+  - first:
+      213: 8989802596421927958
+    second: Spider_4
+  - first:
+      213: 8102673786920169266
+    second: Spider_5
+  - first:
+      213: -6725166634347724402
+    second: Spider_6
+  - first:
+      213: 905633704357905193
+    second: Spider_7
+  - first:
+      213: -7303839196576682541
+    second: Spider_8
+  - first:
+      213: -8230967131063585693
+    second: Spider_9
+  - first:
+      213: -4664177610714319100
+    second: Spider_10
+  - first:
+      213: -2579439709614669524
+    second: Spider_11
+  - first:
+      213: -7417519134994244642
+    second: Spider_12
+  - first:
+      213: -5096414888165297901
+    second: Spider_13
+  - first:
+      213: 5591140174580741523
+    second: Spider_14
+  - first:
+      213: -734628333720202603
+    second: Spider_15
+  - first:
+      213: 8578996721653216493
+    second: Spider_16
+  - first:
+      213: -1767455391259168476
+    second: Spider_17
+  - first:
+      213: -3124533901180705053
+    second: Spider_18
+  - first:
+      213: 1027643729196822211
+    second: Spider_19
+  - first:
+      213: 3137174164971784666
+    second: Spider_20
+  - first:
+      213: -3949082360913780034
+    second: Spider_21
+  - first:
+      213: -6064306032806190762
+    second: Spider_22
+  - first:
+      213: -5551218195724096304
+    second: Spider_23
+  - first:
+      213: -6964022103161880813
+    second: Spider_24
+  - first:
+      213: -6413560673431701294
+    second: Spider_25
+  - first:
+      213: 5814434056301129786
+    second: Spider_26
+  - first:
+      213: 2630808853841813199
+    second: Spider_27
+  - first:
+      213: 5959229671426074986
+    second: Spider_28
+  - first:
+      213: -8967562575883791345
+    second: Spider_29
+  - first:
+      213: 3290336960050559680
+    second: Spider_30
+  - first:
+      213: -7191788611329225733
+    second: Spider_31
+  - first:
+      213: -4618897482561276667
+    second: Spider_32
+  - first:
+      213: -604991833870052222
+    second: Spider_33
+  - first:
+      213: 8156365843760538023
+    second: Spider_34
+  - first:
+      213: -4867882229942822305
+    second: Spider_35
+  - first:
+      213: -3939135976066660883
+    second: Spider_36
+  - first:
+      213: -8205764612945201251
+    second: Spider_37
+  - first:
+      213: -5057322064309411533
+    second: Spider_38
+  - first:
+      213: -7321087404253335741
+    second: Spider_39
+  - first:
+      213: -5713744430246151879
+    second: Spider_40
+  - first:
+      213: 4734144162153754382
+    second: Spider_41
+  - first:
+      213: -7910135722483226973
+    second: Spider_42
+  - first:
+      213: -5084187272199833558
+    second: Spider_43
+  - first:
+      213: -3759165841542030789
+    second: Spider_44
+  - first:
+      213: 3940035916923102686
+    second: Spider_45
+  - first:
+      213: 6791774398732944254
+    second: Spider_46
+  - first:
+      213: 3471874433198957097
+    second: Spider_47
+  - first:
+      213: -8988085029766942771
+    second: Spider_48
+  - first:
+      213: -3356887008044802928
+    second: Spider_49
+  - first:
+      213: 1195292132863289865
+    second: Spider_50
+  - first:
+      213: -7304944486637409951
+    second: Spider_51
+  - first:
+      213: -7501398606601571845
+    second: Spider_52
+  - first:
+      213: -1106440389580828777
+    second: Spider_53
+  - first:
+      213: -7010323959837835236
+    second: Spider_54
+  - first:
+      213: -8203094299888264576
+    second: Spider_55
+  - first:
+      213: 4377541115968788876
+    second: Spider_56
+  - first:
+      213: 7344046751963895584
+    second: Spider_57
+  - first:
+      213: -6545718557268065970
+    second: Spider_58
+  - first:
+      213: 1768803827476468519
+    second: Spider_59
+  - first:
+      213: -8372481977158007644
+    second: Spider_60
+  - first:
+      213: -2177918798551527546
+    second: Spider_61
+  - first:
+      213: 3502020270684418
+    second: Spider_62
+  - first:
+      213: 6882460058463256442
+    second: Spider_63
+  - first:
+      213: 3046053162576240881
+    second: Spider_64
+  - first:
+      213: -8524313794030692481
+    second: Spider_65
+  - first:
+      213: 5181103770112309336
+    second: Spider_66
+  - first:
+      213: 1691532998287615326
+    second: Spider_67
+  - first:
+      213: 7975845584725110784
+    second: Spider_68
+  - first:
+      213: 3625236416488177290
+    second: Spider_69
+  - first:
+      213: 1550347937051538151
+    second: Spider_70
+  - first:
+      213: 3749389610443897445
+    second: Spider_71
+  - first:
+      213: -6803948930718597302
+    second: Spider_72
+  - first:
+      213: 4283934381230187883
+    second: Spider_73
+  - first:
+      213: 4994447763813681647
+    second: Spider_74
+  - first:
+      213: -7411316609975832486
+    second: Spider_75
+  - first:
+      213: -5324711632731067606
+    second: Spider_76
+  - first:
+      213: 3302973426165050540
+    second: Spider_77
+  - first:
+      213: -110574081443465903
+    second: Spider_78
+  - first:
+      213: 1491476604651150392
+    second: Spider_79
+  - first:
+      213: -3870171591204567996
+    second: Spider_80
+  - first:
+      213: -4519316441679965755
+    second: Spider_81
+  - first:
+      213: -3317883558057293275
+    second: Spider_82
+  - first:
+      213: 1820411069189273903
+    second: Spider_83
+  - first:
+      213: 6795445201783414033
+    second: Spider_84
+  - first:
+      213: 5566579827558690007
+    second: Spider_85
+  - first:
+      213: 2798949305186179453
+    second: Spider_86
+  - first:
+      213: 3338081060472989997
+    second: Spider_87
+  - first:
+      213: 9119133591209015806
+    second: Spider_88
+  - first:
+      213: -5550025340639130460
+    second: Spider_89
+  - first:
+      213: -8610870019952700361
+    second: Spider_90
+  - first:
+      213: -3323010670178867958
+    second: Spider_91
+  - first:
+      213: -1954617681843033780
+    second: Spider_92
+  - first:
+      213: -7617049984573019532
+    second: Spider_93
+  - first:
+      213: -1175492942221129654
+    second: Spider_94
+  - first:
+      213: -8042801412490797175
+    second: Spider_95
+  - first:
+      213: 5563209170769066820
+    second: Spider_96
+  - first:
+      213: 3129573487774869777
+    second: Spider_97
+  - first:
+      213: 1823797624441934707
+    second: Spider_98
+  - first:
+      213: 8316363626467357755
+    second: Spider_99
+  - first:
+      213: -3762557850784992758
+    second: Spider_100
+  - first:
+      213: -9024421008098969646
+    second: Spider_101
+  - first:
+      213: 5586319738863383550
+    second: Spider_102
+  - first:
+      213: 3963526572814124933
+    second: Spider_103
+  - first:
+      213: -7370330987464368151
+    second: Spider_104
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spider_Idle_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 777
+        width: 199
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ece045a9d8640d0800000000000000
+      internalID: -3438905571476058607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Jump_7
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 239
+        width: 195
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fd609ca99d340d0800000000000000
+      internalID: -3439666431560065214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Idle_02
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 751
+        width: 157
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c5feb064d8e3800800000000000000
+      internalID: 594067532846947361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Idle_03
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 750
+        width: 169
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c07da5727b9ce80800000000000000
+      internalID: -8157787870349292481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Idle_04
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 766
+        width: 178
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6140d98d4d132cc70800000000000000
+      internalID: 8989802596421927958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Idle_05
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 764
+        width: 156
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fee3021ea727070800000000000000
+      internalID: 8102673786920169266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Idle_06
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 749
+        width: 181
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e810568d3986ba2a0800000000000000
+      internalID: -6725166634347724402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Idle_07
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 763
+        width: 173
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923cfdc4e05719c00800000000000000
+      internalID: 905633704357905193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Walk_01
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 776
+        width: 166
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dde877b2fc83aa90800000000000000
+      internalID: -7303839196576682541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Walk_02
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 766
+        width: 176
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364f90bf00bb5cd80800000000000000
+      internalID: -8230967131063585693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Walk_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 622
+        width: 184
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2181e4204df33cd0800000000000000
+      internalID: -2579439709614669524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_15
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 741
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5929ba63c631ec5f0800000000000000
+      internalID: -734628333720202603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Walk_03
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 498
+        width: 187
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6657ba8fc63a4d0800000000000000
+      internalID: -3124533901180705053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Walk_04
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 489
+        width: 190
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb229f0148a0239c0800000000000000
+      internalID: -3949082360913780034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Walk_17
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 616
+        width: 189
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65124511bc147dba0800000000000000
+      internalID: -6064306032806190762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Walk_05
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 514
+        width: 189
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f311d4bc2da5f90800000000000000
+      internalID: -6964022103161880813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_27
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 631
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce9135c6b2828420800000000000000
+      internalID: 2630808853841813199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_28
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 630
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69a15410df63b250800000000000000
+      internalID: 5959229671426074986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Walk_16
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 628
+        width: 185
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f041c537951dc8380800000000000000
+      internalID: -8967562575883791345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_30
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 602
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0caf62f3800a9ad20800000000000000
+      internalID: 3290336960050559680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Walk_07
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 487
+        width: 207
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb850a9c52a13c90800000000000000
+      internalID: -7191788611329225733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_32
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 602
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5053df9263166efb0800000000000000
+      internalID: -4618897482561276667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_33
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 612
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284d92ae123aa97f0800000000000000
+      internalID: -604991833870052222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_34
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 621
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1e977458b313170800000000000000
+      internalID: 8156365843760538023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_35
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 624
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a52db27eec17cb0800000000000000
+      internalID: -4867882229942822305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Walk_15
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 626
+        width: 185
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5c59043b06559c0800000000000000
+      internalID: -3939135976066660883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Walk_08
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 510
+        width: 189
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d973eee7f844f1e80800000000000000
+      internalID: -8205764612945201251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Walk_13
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 623
+        width: 183
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fa4eb6bc5466a90800000000000000
+      internalID: -7321087404253335741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Walk_09
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 508
+        width: 193
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939bfc1a6b3b4b0b0800000000000000
+      internalID: -5713744430246151879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Walk_10
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 478
+        width: 190
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fe9ac680f03b140800000000000000
+      internalID: 4734144162153754382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Walk_12
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 620
+        width: 204
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a66248587d893290800000000000000
+      internalID: -7910135722483226973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Walk_11
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 473
+        width: 184
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed56b7e8ac1dda630800000000000000
+      internalID: 3940035916923102686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 362
+        width: 181
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c9d5e3d01f961d0800000000000000
+      internalID: -3356887008044802928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Attack_6
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 362
+        width: 217
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169670251bf9f9a90800000000000000
+      internalID: -7304944486637409951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 374
+        width: 187
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10c475308356be90800000000000000
+      internalID: -7010323959837835236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 343
+        width: 182
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ad0243231c82e80800000000000000
+      internalID: -8203094299888264576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Attack_4
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 370
+        width: 191
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0275ba84c9b4be560800000000000000
+      internalID: 7344046751963895584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Attack_5
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 358
+        width: 207
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41ca5227afe825a0800000000000000
+      internalID: -6545718557268065970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Attack_9
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 346
+        width: 171
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7231616a5bd0c8810800000000000000
+      internalID: 1768803827476468519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Jump_3
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 215
+        width: 217
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fc0be446a76c1e0800000000000000
+      internalID: -2177918798551527546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Jump_4
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 221
+        width: 204
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f348555f8638f50800000000000000
+      internalID: 6882460058463256442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Attack_8
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 358
+        width: 186
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f0ef427631c54a20800000000000000
+      internalID: 3046053162576240881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Web_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 120
+        width: 193
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00078ec2d45efae60800000000000000
+      internalID: 7975845584725110784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Jump_2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 218
+        width: 194
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e769f305d6f4230800000000000000
+      internalID: 3625236416488177290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Jump_8
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 176
+        width: 195
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f7e921f748391a0800000000000000
+      internalID: -6803948930718597302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Web_2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 116
+        width: 229
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15572327579277ef0800000000000000
+      internalID: -110574081443465903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Web_5
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 126
+        width: 160
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444817e51736a4ac0800000000000000
+      internalID: -3870171591204567996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Web_6
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 122
+        width: 162
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ac2eb9b7284f1d0800000000000000
+      internalID: -3317883558057293275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Death_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 0
+        width: 186
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9785b9fabad8e70800000000000000
+      internalID: 9119133591209015806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Death_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 11
+        width: 174
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acc9c4ab595af2b0800000000000000
+      internalID: -5550025340639130460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Death_3
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 12
+        width: 162
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73498a5d65b008880800000000000000
+      internalID: -8610870019952700361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Death_5
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 0
+        width: 176
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05e72bc66b42e1d0800000000000000
+      internalID: -3323010670178867958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Death_6
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 0
+        width: 175
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c496c0a039dcfd4e0800000000000000
+      internalID: -1954617681843033780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Death_7
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 0
+        width: 204
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a027a11d195b8cbc0800000000000000
+      internalID: -3762557850784992758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Death_8
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1
+        width: 229
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d730b418e0d2c280800000000000000
+      internalID: -9024421008098969646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Death_9
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 0
+        width: 198
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efd12f340357b990800000000000000
+      internalID: -7370330987464368151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Walk_06
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 499
+        width: 173
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679b1c3c8dae32b4c864221e33261f6b
+      internalID: 904787657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Walk_14
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 629
+        width: 202
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da381de89f0971048a0444f36cfdf342
+      internalID: -824546114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Walk_18
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 636
+        width: 188
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8801daeee07f4654798fe9d14460ebfd
+      internalID: 572081953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Walk_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 637
+        width: 191
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea437987b120af468039e40da29ca96
+      internalID: 1035789003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Jump_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 220
+        width: 175
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e818aec3986624da9124d0ea0070ae
+      internalID: 1096606492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Web_3
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 132
+        width: 387
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a705887451889f4188a5623e1453b56
+      internalID: -1357645993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Web_4
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 130
+        width: 152
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f2bd7dda3c9e24dbfb2deb579fbeae
+      internalID: -623694559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Jump_5
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 232
+        width: 207
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e9e3ca98681a447aac524dfa370c76
+      internalID: -2086565960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Jump_6
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 232
+        width: 209
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90aa74d16821aa4f977172cbaddc50b
+      internalID: -1727335942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Death_4
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 4
+        width: 148
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c664766ff9c0540b062466c9aeb784
+      internalID: 870306222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Attack_7
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 355
+        width: 164
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682c47d1e1ecbde4d8cf9e597f4f18d8
+      internalID: 546393358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d0d1a8b0c8c40bb47a63e8102ef02396
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Spider_10: -4664177610714319100
+      Spider_102: 5586319738863383550
+      Spider_103: 3963526572814124933
+      Spider_12: -7417519134994244642
+      Spider_13: -5096414888165297901
+      Spider_14: 5591140174580741523
+      Spider_15: -734628333720202603
+      Spider_16: 8578996721653216493
+      Spider_17: -1767455391259168476
+      Spider_19: 1027643729196822211
+      Spider_20: 3137174164971784666
+      Spider_23: -5551218195724096304
+      Spider_25: -6413560673431701294
+      Spider_26: 5814434056301129786
+      Spider_27: 2630808853841813199
+      Spider_28: 5959229671426074986
+      Spider_30: 3290336960050559680
+      Spider_32: -4618897482561276667
+      Spider_33: -604991833870052222
+      Spider_34: 8156365843760538023
+      Spider_35: -4867882229942822305
+      Spider_38: -5057322064309411533
+      Spider_43: -5084187272199833558
+      Spider_44: -3759165841542030789
+      Spider_46: 6791774398732944254
+      Spider_47: 3471874433198957097
+      Spider_48: -8988085029766942771
+      Spider_50: 1195292132863289865
+      Spider_52: -7501398606601571845
+      Spider_53: -1106440389580828777
+      Spider_56: 4377541115968788876
+      Spider_60: -8372481977158007644
+      Spider_62: 3502020270684418
+      Spider_65: -8524313794030692481
+      Spider_66: 5181103770112309336
+      Spider_67: 1691532998287615326
+      Spider_70: 1550347937051538151
+      Spider_71: 3749389610443897445
+      Spider_73: 4283934381230187883
+      Spider_74: 4994447763813681647
+      Spider_75: -7411316609975832486
+      Spider_76: -5324711632731067606
+      Spider_77: 3302973426165050540
+      Spider_79: 1491476604651150392
+      Spider_81: -4519316441679965755
+      Spider_83: 1820411069189273903
+      Spider_84: 6795445201783414033
+      Spider_85: 5566579827558690007
+      Spider_86: 2798949305186179453
+      Spider_87: 3338081060472989997
+      Spider_93: -7617049984573019532
+      Spider_94: -1175492942221129654
+      Spider_95: -8042801412490797175
+      Spider_96: 5563209170769066820
+      Spider_97: 3129573487774869777
+      Spider_98: 1823797624441934707
+      Spider_99: 8316363626467357755
+      Spider_Attack_1: -7010323959837835236
+      Spider_Attack_2: -8203094299888264576
+      Spider_Attack_3: -3356887008044802928
+      Spider_Attack_4: 7344046751963895584
+      Spider_Attack_5: -6545718557268065970
+      Spider_Attack_6: -7304944486637409951
+      Spider_Attack_7: 546393358
+      Spider_Attack_8: 3046053162576240881
+      Spider_Attack_9: 1768803827476468519
+      Spider_Death_1: 9119133591209015806
+      Spider_Death_2: -5550025340639130460
+      Spider_Death_3: -8610870019952700361
+      Spider_Death_4: 870306222
+      Spider_Death_5: -3323010670178867958
+      Spider_Death_6: -1954617681843033780
+      Spider_Death_7: -3762557850784992758
+      Spider_Death_8: -9024421008098969646
+      Spider_Death_9: -7370330987464368151
+      Spider_Idle_01: -3438905571476058607
+      Spider_Idle_02: 594067532846947361
+      Spider_Idle_03: -8157787870349292481
+      Spider_Idle_04: 8989802596421927958
+      Spider_Idle_05: 8102673786920169266
+      Spider_Idle_06: -6725166634347724402
+      Spider_Idle_07: 905633704357905193
+      Spider_Jump_1: 1096606492
+      Spider_Jump_2: 3625236416488177290
+      Spider_Jump_3: -2177918798551527546
+      Spider_Jump_4: 6882460058463256442
+      Spider_Jump_5: -2086565960
+      Spider_Jump_6: -1727335942
+      Spider_Jump_7: -3439666431560065214
+      Spider_Jump_8: -6803948930718597302
+      Spider_Walk_01: -7303839196576682541
+      Spider_Walk_02: -8230967131063585693
+      Spider_Walk_03: -3124533901180705053
+      Spider_Walk_04: -3949082360913780034
+      Spider_Walk_05: -6964022103161880813
+      Spider_Walk_06: 904787657
+      Spider_Walk_07: -7191788611329225733
+      Spider_Walk_08: -8205764612945201251
+      Spider_Walk_09: -5713744430246151879
+      Spider_Walk_10: 4734144162153754382
+      Spider_Walk_11: 3940035916923102686
+      Spider_Walk_12: -7910135722483226973
+      Spider_Walk_13: -7321087404253335741
+      Spider_Walk_14: -824546114
+      Spider_Walk_15: -3939135976066660883
+      Spider_Walk_16: -8967562575883791345
+      Spider_Walk_17: -6064306032806190762
+      Spider_Walk_18: 572081953
+      Spider_Walk_19: 1035789003
+      Spider_Walk_20: -2579439709614669524
+      Spider_Web_1: 7975845584725110784
+      Spider_Web_2: -110574081443465903
+      Spider_Web_3: -1357645993
+      Spider_Web_4: -623694559
+      Spider_Web_5: -3870171591204567996
+      Spider_Web_6: -3317883558057293275
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
