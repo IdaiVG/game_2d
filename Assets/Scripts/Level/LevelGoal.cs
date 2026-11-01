@@ -69,6 +69,8 @@ public class LevelGoal : MonoBehaviour
 
     public void RestartLevel()
     {
+        // Tras la victoria, REINICIAR empieza un intento nuevo: 3 vidas y 0 huesitos
+        LivesManager.ResetLives();
         LevelRestarter.RestartCurrentLevel();
     }
 

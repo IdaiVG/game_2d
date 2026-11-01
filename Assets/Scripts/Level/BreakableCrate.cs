@@ -13,6 +13,16 @@ public class BreakableCrate : MonoBehaviour
     [Tooltip("Identificador unico y estable. Evita otorgar la recompensa dos veces.")]
     public string rewardId = "";
 
+    [Header("Vida extra")]
+    [Tooltip("Probabilidad (0-1) de que la caja suelte una vida extra al romperse.")]
+    [Range(0f, 1f)] public float extraLifeDropChance = 0.2f;
+
+    [Tooltip("Prefab del coleccionable de vida. Sin prefab no hay tirada.")]
+    public GameObject extraLifePrefab;
+
+    [Tooltip("Altura sobre la superficie solida donde aparece la vida.")]
+    public float extraLifeDropHeight = 0.9f;
+
     [Header("Rotura")]
     public bool breakOnStomp = true;
     public float stompTolerance = 0.35f;
@@ -26,6 +36,7 @@ public class BreakableCrate : MonoBehaviour
     private Collider2D crateCollider;
     private SpriteRenderer crateRenderer;
     private bool broken;
+    private bool dropRolled;
 
     private static readonly ContactPoint2D[] contacts = new ContactPoint2D[8];
 
@@ -138,7 +149,65 @@ public class BreakableCrate : MonoBehaviour
         if (breakSound != null)
             AudioSource.PlayClipAtPoint(breakSound, transform.position);
 
+        // Una sola tirada por caja, despues de entregar los cinco huesitos
+        TryDropExtraLife();
+
         StartCoroutine(BreakSequence());
+    }
+
+    // Calcula la probabilidad una unica vez. Si sale premiada, coloca el
+    // coleccionable sobre la superficie solida mas cercana bajo la caja.
+    void TryDropExtraLife()
+    {
+        if (dropRolled || extraLifePrefab == null)
+            return;
+
+        dropRolled = true;
+
+        if (Random.value > extraLifeDropChance)
+            return;
+
+        Vector3 spawnPosition = FindDropPosition();
+
+        GameObject drop = Instantiate(extraLifePrefab, spawnPosition, Quaternion.identity);
+        drop.name = "ExtraLife";
+
+        BoneHudUI.ShowPopup(
+            spawnPosition,
+            "¡VIDA EXTRA!",
+            new Color(1f, 0.55f, 0.6f, 1f));
+    }
+
+    Vector3 FindDropPosition()
+    {
+        Vector3 origin = transform.position + Vector3.up * 0.5f;
+        RaycastHit2D[] hits = Physics2D.RaycastAll(origin, Vector2.down, 6f);
+
+        float bestY = float.NegativeInfinity;
+
+        for (int i = 0; i < hits.Length; i++)
+        {
+            Collider2D hit = hits[i].collider;
+
+            if (hit == null || hit.isTrigger)
+                continue;
+
+            if (hit.transform.IsChildOf(transform))
+                continue;
+
+            if (hit.GetComponentInParent<PlayerController>() != null)
+                continue;
+
+            if (hits[i].point.y > bestY)
+                bestY = hits[i].point.y;
+        }
+
+        float baseY = bestY > float.NegativeInfinity ? bestY : transform.position.y;
+
+        return new Vector3(
+            transform.position.x,
+            baseY + extraLifeDropHeight,
+            transform.position.z);
     }
 
     // Desvanece y encoge la caja antes de destruirla

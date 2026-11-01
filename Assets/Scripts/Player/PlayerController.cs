@@ -173,8 +173,12 @@ public class PlayerController : MonoBehaviour
         if (isDead || levelCompleted)
             return;
         isDead = true;
+        // Una sola muerte = un solo descuento: isDead ya bloquea cualquier
+        // segunda llamada (araña + caída en el mismo fotograma, etc.).
         if (LivesManager.Instance != null)
-        LivesManager.Instance.LoseLife();
+        {
+            LivesManager.Instance.LoseLife();
+        }
         horizontal = 0f;
         isRunning = false;
         jumpRequested = false;
@@ -206,18 +210,20 @@ public class PlayerController : MonoBehaviour
             ? clipLength + Mathf.Max(0f, deathPoseHold)
             : Mathf.Max(deathDelay, 0.1f);
         yield return new WaitForSeconds(wait);
-        if (LivesManager.Instance != null && LivesManager.CurrentLives <= 0)
+
+        // La vida ya se desconto en Die(); aqui solo se decide el desenlace.
+        bool outOfLives = LivesManager.Instance != null && LivesManager.CurrentLives <= 0;
+
+        if (outOfLives)
         {
-            // La tercera muerte NO reinicia automaticamente el nivel.
+            // Tercera muerte: se muestra Game Over y NO se recarga el nivel.
             BoneScoreManager.ResetScore();
             LivesManager.Instance.ShowGameOver();
+            yield break;
         }
-        else
-        {
-            // Se conservan las vidas restantes, pero no los huesitos.
-            BoneScoreManager.ResetScore();
-            LevelRestarter.RestartCurrentLevel();
-        }
+
+        // Quedan vidas: se conservan y el intento empieza con cero huesitos.
+        LevelRestarter.RestartCurrentLevel();
     }
     float GetDeathClipLength()
     {
